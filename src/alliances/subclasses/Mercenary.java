@@ -10,6 +10,7 @@ import alliances.Alliance;
  * To change this template use File | Settings | File Templates.
  */
 public class Mercenary extends Alliance {
-
+    public Mercenary()
+    {}
 
 }

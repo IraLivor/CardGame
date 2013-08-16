@@ -9,10 +9,20 @@ package cards;
  */
 public class Card {
 
+    boolean visible = false;
     public Card()
     {
 
     }
 
+    public boolean getCardVisibility()
+    {
+        return visible;
+    }
+
+    public void setCardVisibility(boolean status)
+    {
+        visible = status;
+    }
 }
 

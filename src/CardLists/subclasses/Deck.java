@@ -1,17 +1,17 @@
-package decks.subclasses;
+package CardLists.subclasses;
 
-import decks.Deck;
+import CardLists.CardList;
 
 /**
  * Created with IntelliJ IDEA.
  * User: PerkinsE
  * Date: 8/15/13
- * Time: 5:21 PM
+ * Time: 12:33 PM
  * To change this template use File | Settings | File Templates.
  */
-public class GraveYard extends Deck {
+public class Deck extends CardList {
+    Deck()
+    {
 
-    GraveYard()
-    {}
-
+    }
 }
