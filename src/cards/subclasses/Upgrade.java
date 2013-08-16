@@ -1,13 +1,19 @@
-package alliances;
+package cards.subclasses;
+
+import cards.Card;
 
 /**
  * Created with IntelliJ IDEA.
  * User: PerkinsE
  * Date: 8/15/13
- * Time: 12:38 PM
+ * Time: 12:14 PM
  * To change this template use File | Settings | File Templates.
  */
-public class Mercenary extends Alliance {
+public class Upgrade extends Card {
 
+    Upgrade()
+    {
+
+    }
 
 }

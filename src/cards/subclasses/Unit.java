@@ -1,4 +1,6 @@
-package cards;
+package cards.subclasses;
+
+import cards.Card;
 
 /**
  * Created with IntelliJ IDEA.

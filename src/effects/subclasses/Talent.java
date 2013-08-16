@@ -1,4 +1,6 @@
-package effects;
+package effects.subclasses;
+
+import effects.Effect;
 
 /**
  * Created with IntelliJ IDEA.
