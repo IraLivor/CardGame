@@ -1,5 +1,7 @@
 package decks;
 
+import cards.Card;
+
 /**
  * Created with IntelliJ IDEA.
  * User: PerkinsE
@@ -12,4 +14,16 @@ public class Deck {
    {
 
    }
+
+    public int CountCards()
+    {
+        int cardCount=0;
+        return cardCount;
+    }
+
+    public void removeCard(Card card)
+    {}
+
+    public void addCard(Card card)
+    {}
 }
